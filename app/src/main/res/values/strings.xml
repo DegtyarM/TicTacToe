@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="pvp_mode">PvP</string>
+    <string name="pve_mode">PvE</string>
+    <string name="settings">Настройки</string>
+    <string name="back_to_menu">В меню</string>
+    <string name="player_turn">Ход игрока %1$s</string>
+    <string name="player_x">X</string>
+    <string name="player_o">O</string>
+    <string name="cups">Кубки: %1$d</string>
+    <string name="select_board_size">Выберите размер поля</string>
+    <string name="board_size_3x3">3×3</string>
+    <string name="board_size_4x4">4×4</string>
+    <string name="board_size_5x5">5×5</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="sounds_enabled">Звуки включены</string>
+    <string name="volume">Громкость</string>
+    <string name="app_version">Версия приложения</string>
+    <string name="you_win">Вы победили!</string>
+    <string name="you_lose">Вы проиграли!</string>
+    <string name="player_wins">Игрок %1$s победил!</string>
+    <string name="cups_change">%1$d кубков</string>
+    <string name="cups_change_positive">+%1$d кубков</string>
+    <string name="cups_change_negative">%1$d кубков</string>
+    <string name="play_again">Играть снова</string>
+    <string name="to_main_menu">В главное меню</string>
+</resources>
+
