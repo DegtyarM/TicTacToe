@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\anim_win_highlight.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\anim\\win_highlight.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\layout_activity_main_menu.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\layout_activity_settings.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\drawable_cell_background.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\drawable\\cell_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\anim_button_click.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\anim\\button_click.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\anim_cell_appear.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\anim\\cell_appear.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\raw_win.mp3.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\raw\\win.mp3"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\raw_select.mp3.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\raw\\select.mp3"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tictactoe.game.app-merged_res-31:/raw_lose.mp3.flat",
+        "source": "com.tictactoe.game.app-main-33:/raw/lose.mp3"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\layout_activity_game.xml.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-merged_res-31:\\raw_move.mp3.flat",
+        "source": "D:\\Users\\draft\\.gradle\\daemon\\9.0-milestone-1\\com.tictactoe.game.app-main-33:\\raw\\move.mp3"
+    }
+]

@@ -1,0 +1,4 @@
+com.tictactoe.game.test.app-androidTest-0 D:\tic-tac\app\build\generated\res\resValues\androidTest\debug
+com.tictactoe.game.test.app-mergeDebugAndroidTestResources-1 D:\tic-tac\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.tictactoe.game.test.app-mergeDebugAndroidTestResources-2 D:\tic-tac\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.tictactoe.game.test.app-merged_res-3 D:\tic-tac\app\build\intermediates\merged_res\debugAndroidTest

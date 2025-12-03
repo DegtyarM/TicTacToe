@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="board_cell_bg">#FFE0E0E0</color>
+    <color name="board_cell_bg_dark">#FF2C2C2C</color>
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_primary">#FFBB86FC</color>
+    <color name="dark_primary_dark">#FF6200EE</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_text">#FFFFFFFF</color>
+    <color name="dark_text_secondary">#FFB3B3B3</color>
+    <color name="light_background">#FFFFFFFF</color>
+    <color name="light_primary">#FF6200EE</color>
+    <color name="light_primary_dark">#FF3700B3</color>
+    <color name="light_surface">#FFF5F5F5</color>
+    <color name="light_text">#FF212121</color>
+    <color name="light_text_secondary">#FF757575</color>
+    <color name="o_color">#FF2196F3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="win_line_color">#FF4CAF50</color>
+    <color name="x_color">#FFFF5722</color>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="app_version">Версия приложения</string>
+    <string name="back_to_menu">В меню</string>
+    <string name="board_size_3x3">3×3</string>
+    <string name="board_size_4x4">4×4</string>
+    <string name="board_size_5x5">5×5</string>
+    <string name="cups">Кубки: %1$d</string>
+    <string name="cups_change">%1$d кубков</string>
+    <string name="cups_change_negative">%1$d кубков</string>
+    <string name="cups_change_positive">+%1$d кубков</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="play_again">Играть снова</string>
+    <string name="player_o">O</string>
+    <string name="player_turn">Ход игрока %1$s</string>
+    <string name="player_wins">Игрок %1$s победил!</string>
+    <string name="player_x">X</string>
+    <string name="pve_mode">PvE</string>
+    <string name="pvp_mode">PvP</string>
+    <string name="select_board_size">Выберите размер поля</string>
+    <string name="settings">Настройки</string>
+    <string name="sounds_enabled">Звуки включены</string>
+    <string name="to_main_menu">В главное меню</string>
+    <string name="volume">Громкость</string>
+    <string name="you_lose">Вы проиграли!</string>
+    <string name="you_win">Вы победили!</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+    <style name="RoundedButton" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">16dp</item>
+    </style>
+</resources>
